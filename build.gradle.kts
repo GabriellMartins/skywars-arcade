@@ -21,6 +21,9 @@ dependencies {
     compileOnly("com.mojang:authlib:1.5.25")
     compileOnly("mysql:mysql-connector-java:8.0.33")
 
+    compileOnly(files("C:/Users/Anderson/Desktop/Prisma Server/lobby1/carbonspigot.jar"))
+
+
     implementation("redis.clients:jedis:5.1.2")
     implementation("org.mongodb:mongo-java-driver:3.4.1")
     implementation("org.jetbrains:annotations:24.1.0")
