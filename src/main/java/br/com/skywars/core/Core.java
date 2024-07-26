@@ -23,7 +23,4 @@ public class Core {
     private static final JsonParser parser = new JsonParser();
 
 
-    public static String getBungeeChannel() {
-        return "Arcade";
-    }
 }
