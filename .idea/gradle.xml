@@ -11,6 +11,10 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/arcade" />
             <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/core-bukkit" />
+            <option value="$PROJECT_DIR$/game-api" />
+            <option value="$PROJECT_DIR$/hub" />
+            <option value="$PROJECT_DIR$/hub-geral" />
           </set>
         </option>
       </GradleProjectSettings>
